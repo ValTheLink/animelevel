@@ -6,6 +6,6 @@
       "versao": "1.0.1",
       "link": "https://animelevel.netlify.app/"
     },
-    "enviar_para_aplicativo": false
+    "enviar_para_aplicativo": true
   }
 }
