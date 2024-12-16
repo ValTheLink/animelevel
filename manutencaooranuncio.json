@@ -4,7 +4,7 @@
       "titulo": "Nova Atualização Disponível",
       "conteudo": "Uma nova versão do aplicativo foi lançada com várias melhorias e correções.",
       "versao": "1.2.0",
-      "link": "https://seuapp.com/atualizacao"
+      "link": "https://animelevel.netlify.app/"
     },
     "enviar_para_aplicativo": false
   }
