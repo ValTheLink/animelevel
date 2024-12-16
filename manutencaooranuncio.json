@@ -6,6 +6,6 @@
       "versao": "1.2.0",
       "link": "https://seuapp.com/atualizacao"
     },
-    "enviar_para_aplicativo": true
+    "enviar_para_aplicativo": false
   }
 }
