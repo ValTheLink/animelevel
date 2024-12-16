@@ -3,7 +3,7 @@
     "embed": {
       "titulo": "Nova Atualização Disponível",
       "conteudo": "Uma nova versão do aplicativo foi lançada com várias melhorias e correções.",
-      "versao": "1.0.2",
+      "versao": "1.0.1",
       "link": "https://animelevel.netlify.app/"
     },
     "enviar_para_aplicativo": true
